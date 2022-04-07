@@ -1,0 +1,2 @@
+# ASPcore.Apitest
+ASPCoreTest
